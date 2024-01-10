@@ -1,3 +1,3 @@
 # -problem-of-the-day
 <br>
-author-ayush kumar
+author-ayush(malviya)
